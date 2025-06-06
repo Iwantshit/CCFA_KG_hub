@@ -1,0 +1,341 @@
+node,group
+12 months of age,1
+intentional stance,1
+2d videos,2
+a. bulling,2
+ablation studies,2
+actions,2
+adjacent and aligned,2
+agent,2
+agent and world state encoding,2
+agent tests,2
+agent's past trajectories,2
+agents,2
+agents’ goals,2
+agents’ preferences,2
+ai capabilities,2
+architecture,2
+attention heads,2
+baby intuitions benchmark,2
+baby intuitions benchmark (bib),2
+bail-largeon 1987,2
+bayesian theory of mind,2
+bc-mlp,2
+bc-rnn,2
+benchmarks,2
+bib,2
+bib task,2
+bipack,2
+blocking barriers,2
+blocking obstacles,2
+coarse probabilistic object representations,2
+collaborative agents,2
+colour,2
+common-sense reasoning,2
+common-sense reasoning benchmarks,2
+common-sense reasoning tasks,2
+complementary basic concepts,2
+complex tasks,2
+context embedding,2
+context embeddings,2
+context encoder,2
+core psychological reasoning,2
+ctx token,2
+dasgupta et al.,2
+designing and creating new benchmarks,2
+deutsche forschungsgemeinschaft,2
+developmental cognitive science,2
+"discerning the goals, preferences, and actions of others",2
+edges,2
+edges eij,2
+efficiency irrational agent,2
+efficient,2
+efficient action,2
+efficient action task,2
+embedding vector,2
+encoded states,2
+encoder,2
+errors,2
+evaluating language processing,2
+evaluation,2
+evaluation performance,2
+evaluation set,2
+evaluation tasks,2
+existing models,2
+existing models (gandhi et al. 2021; hein and diepold 2022),2
+expected events or situations,2
+expected outcome,2
+expected trials,2
+expectedness,2
+familiarisation,2
+feature fusion module,2
+features,2
+final scores,2
+frames,2
+gandhi et al.,2
+gandhi et al. (2021),2
+gandhi et al. 2021,2
+gcn,2
+general ability of ai systems to reason about unexpected events or situations,2
+general neural common-sense reasoners,2
+generalisation,2
+gnn,2
+graph,2
+graph neural network,2
+graph neural network (gnn),2
+graph relations,2
+graph-sage layers,2
+graphs,2
+graphsage,2
+graphsage layers,2
+grid-world environment,2
+ground truth,2
+hbtom,2
+hein et al.,2
+heuristics,2
+hidden dimension 96,2
+"hidden dimensions 256, 128 and 256",2
+improving performance,2
+inaccessible goal,2
+inaccessible goal task,2
+inconsequential barrier,2
+"infants expect other agents to have goals, preferences and engage in instrumental actions",2
+infants' looking times,2
+infants’ responses,2
+initial models,2
+input,2
+instrumental action,2
+instrumental action task,2
+instrumental action tasks,2
+intelligent,2
+intuitive physics,2
+intuitive psychology,2
+intuitive reasoning network (irene),2
+irene,2
+irrational agent,2
+irrational agents,2
+knowledge,2
+knowledge gained during training,2
+l. shi,2
+lack of accessible and well-maintained benchmarks,2
+local,2
+local directional relations,2
+local relations,2
+logistic regression classifiers,2
+lstm,2
+lstm aggregation,2
+lstm limitations,2
+m,2
+m. bortoletto,2
+machine theory of mind network,2
+mean prediction error,2
+message passing,2
+meta-learning problem,2
+mlp,2
+mlp policy,2
+model,2
+models,2
+models’ ability to predict future actions,2
+models’ ability to reason about other agents,2
+"most recent model (hein and diepold 2022, vt)",2
+mse,2
+multi-agent,2
+multi-agent task,2
+neural model,2
+neural network,2
+no barrier,2
+node embeddings,2
+node features,2
+nodes,2
+"normalised between [-1, 1]",2
+"normalised between [0, 1]",2
+novel model,2
+objects,2
+observer,2
+observer model,2
+obstacles,2
+one-hot vectors,2
+output dimension two,2
+p,2
+path control,2
+path control and time control sub-tasks,2
+performance,2
+performance scores,2
+piloto et al.,2
+position,2
+prediction error,2
+prediction net,2
+preference,2
+preference task,2
+preferences,2
+rational agents,2
+reasoning performance,2
+reasoning tasks,2
+relational graphs,2
+relationships,2
+remote,2
+remote directional relations,2
+remote relations,2
+research,2
+resulting model,2
+results,2
+reward hacking,2
+riochet et al.,2
+rnn,2
+s,2
+shape,2
+shu et al.,2
+spatial relations,2
+spatial relationships,2
+stack of six layers,2
+state and context representations,2
+state embedding,2
+state encoder,2
+state-action pairs,2
+states,2
+stojni´c et al. (2023),2
+sub-tasks,2
+t-tests,2
+table 2,2
+tasks,2
+test frame graph,2
+test state,2
+test trial,2
+test trials,2
+the state of the art,2
+theory of mind network,2
+time control,2
+training and evaluation on the baby intuitions benchmark,2
+training and evaluation tasks,2
+training set,2
+training tasks,2
+trajectories,2
+transformer,2
+transformer context encoder,2
+transformer encoder,2
+trial representations,2
+trials,2
+type,2
+"type, position, color, shape",2
+unexpected trials,2
+unseen evaluation tasks,2
+video,2
+video frames,2
+video transformer,2
+video-rnn,2
+violation of expectation paradigm,2
+visual scene understanding,2
+voe accuracy scores,2
+voe paradigm,2
+vt,2
+vt model,2
+weights,2
+weihs et al.,2
+worse scores,2
+abductive commonsense reasoning,3
+learning representations,3
+"advances in neural information processing systems, 30",4
+attention is all you need,4
+agent-blocked instrumental action,5
+evaluation trials,5
+frame,5
+graph generation,5
+instrumental blocking barrier,5
+json file,5
+navigation preference,5
+single-object multiple-agent,5
+training trials,5
+"agents’ goals, preferences and actions in human infants",6
+comparing intuitions,6
+ai agents,7
+ai systems,7
+developmental disorders,7
+human-machine collaboration,7
+humans,7
+infants,7
+machine common-sense reasoning,7
+our model’s expectations,7
+robotics,7
+ann-sophia,8
+constantin ruhdorfer,8
+denisov,8
+ekta sood,8
+hsiu-yu yang,8
+manuel mager,8
+m¨uller,8
+arxiv preprint arxiv:1804.01128,9
+probing physics knowledge using tools from developmental psychology,9
+behaviour,10
+mindblindness,10
+benchmarking progress to infant-level physical reasoning in ai,11
+transactions on machine learning research,11
+"bhagavatula, c.",12
+"choi, y.",12
+clevrer: collision events for video representation and reasoning,13
+international conference on learning representations,13
+"cognition, 47(2): 121–148",14
+intuitions about support in 4.5-month-old infants,14
+cognitron,15
+self-organizing multi-layered neural network,15
+commonsense psychology,16
+human infants and machines,16
+commonsense reasoning,17
+human-robot collaboration,17
+communications of the acm,18
+winogrande: an adversarial winograd schema challenge at scale,18
+deep network learning,19
+exponential linear units (elus),19
+"diepold, k.",20
+"hein, a.",20
+exponential linear units,21
+fast and accurate deep network learning,21
+"gimpel, k.",22
+"hendrycks, d.",22
+"gomez, a. n.",23
+"jones, l.",23
+graph convolutional networks,24
+relational data,24
+hellaswag: can a machine really finish your sentence?,25
+proceedings of the 57th annual meeting of the association for computational linguistics,25
+"huang, l.",26
+"le bras, r.",26
+ieee transactions on pattern analysis and machine intelligence,27
+intphys: a framework and benchmark for visual intuitive physics reasoning,27
+ieee/cvf international conference on computer vision,28
+international conference on machine learning,28
+machine theory of mind,28
+proceedings of the,28
+rectified linear units improve restricted boltzmann machines,28
+video transformer network,28
+inductive representation learning,29
+large graphs,29
+international joint conference on natural language processing,30
+natural language processing,30
+intuitive physics learning in a deep-learning model inspired by developmental psychology,31
+nature human behaviour,31
+"jiang, m.",32
+"rockt¨aschel, t.",32
+"jiang, z.",33
+"minervini, p.",33
+"kaiser, ł.",34
+"polosukhin, i.",34
+learning in graph domains,35
+model for learning,35
+mathematics education research group of australasia,36
+teachers’ extent of the use of particular task types in mathematics,36
+modeling violation-of-expectation,37
+physical reasoning,37
+"mota, t.",38
+"sridharan, m.",38
+"parmar, n.",39
+"uszkoreit, j.",39
+physical commonsense in natural language,40
+piqa,40
+physical scene understanding,41
+simulation,41
+proceedings of the 2019 conference on empirical methods in natural language processing and the 9th international joint conference on natural language pro,42
+social iqa: commonsense reasoning about social interactions,42
+robotics: science and systems workshop on social intelligence in humans and robots,43
+solving the baby intuitions benchmark with a hierarchically bayesian theory of mind,43
+"shazeer, n.",44
+"vaswani, a.",44

@@ -1,0 +1,341 @@
+node,group,color,size
+2d videos,2,#578bdb,10
+a. bulling,2,#578bdb,2
+abductive commonsense reasoning,3,#57dbad,1
+ablation studies,2,#578bdb,2
+actions,2,#578bdb,13
+adjacent and aligned,2,#578bdb,10
+agent,2,#578bdb,52
+agent and world state encoding,2,#578bdb,4
+agent tests,2,#578bdb,3
+agent's past trajectories,2,#578bdb,5
+agent-blocked instrumental action,5,#7fdb57,8
+agents,2,#578bdb,9
+agents’ goals,2,#578bdb,1
+agents’ preferences,2,#578bdb,8
+ai agents,7,#5bdb57,9
+ai capabilities,2,#578bdb,3
+ai systems,7,#5bdb57,2
+ann-sophia,8,#dbcb57,4
+architecture,2,#578bdb,9
+attention heads,2,#578bdb,8
+attention is all you need,4,#dbb957,1
+baby intuitions benchmark,2,#578bdb,12
+baby intuitions benchmark (bib),2,#578bdb,13
+bail-largeon 1987,2,#578bdb,9
+bayesian theory of mind,2,#578bdb,4
+bc-mlp,2,#578bdb,10
+bc-rnn,2,#578bdb,8
+behaviour,10,#57db89,1
+benchmarking progress to infant-level physical reasoning in ai,11,#b357db,1
+benchmarks,2,#578bdb,13
+"bhagavatula, c.",12,#db7157,1
+bib,2,#578bdb,35
+bib task,2,#578bdb,3
+bipack,2,#578bdb,4
+blocking barriers,2,#578bdb,4
+blocking obstacles,2,#578bdb,2
+clevrer: collision events for video representation and reasoning,13,#57dbd1,1
+cognitron,15,#57db65,1
+collaborative agents,2,#578bdb,4
+colour,2,#578bdb,29
+common-sense reasoning,2,#578bdb,14
+common-sense reasoning benchmarks,2,#578bdb,3
+common-sense reasoning tasks,2,#578bdb,8
+commonsense psychology,16,#b5db57,1
+comparing intuitions,6,#57dbbf,1
+complementary basic concepts,2,#578bdb,2
+complex tasks,2,#578bdb,2
+constantin ruhdorfer,8,#dbcb57,5
+context embedding,2,#578bdb,31
+context embeddings,2,#578bdb,9
+context encoder,2,#578bdb,22
+ctx token,2,#578bdb,12
+dasgupta et al.,2,#578bdb,8
+deep network learning,19,#db5773,1
+denisov,8,#dbcb57,6
+designing and creating new benchmarks,2,#578bdb,3
+deutsche forschungsgemeinschaft,2,#578bdb,2
+developmental cognitive science,2,#578bdb,3
+developmental disorders,7,#5bdb57,2
+edges,2,#578bdb,17
+edges eij,2,#578bdb,3
+efficiency irrational agent,2,#578bdb,2
+efficient,2,#578bdb,3
+efficient action,2,#578bdb,11
+efficient action task,2,#578bdb,2
+ekta sood,8,#dbcb57,6
+embedding vector,2,#578bdb,16
+encoded states,2,#578bdb,21
+encoder,2,#578bdb,2
+errors,2,#578bdb,8
+evaluating language processing,2,#578bdb,3
+evaluation,2,#578bdb,10
+evaluation performance,2,#578bdb,4
+evaluation set,2,#578bdb,2
+evaluation tasks,2,#578bdb,9
+evaluation trials,5,#7fdb57,4
+existing models,2,#578bdb,17
+existing models (gandhi et al. 2021; hein and diepold 2022),2,#578bdb,1
+expected events or situations,2,#578bdb,11
+expected outcome,2,#578bdb,3
+expected trials,2,#578bdb,2
+expectedness,2,#578bdb,4
+familiarisation,2,#578bdb,3
+fast and accurate deep network learning,21,#57db77,1
+feature fusion module,2,#578bdb,35
+features,2,#578bdb,29
+final scores,2,#578bdb,3
+frame,5,#7fdb57,4
+frames,2,#578bdb,29
+gandhi et al.,2,#578bdb,45
+gandhi et al. (2021),2,#578bdb,3
+gandhi et al. 2021,2,#578bdb,10
+gcn,2,#578bdb,4
+general ability of ai systems to reason about unexpected events or situations,2,#578bdb,3
+general neural common-sense reasoners,2,#578bdb,3
+generalisation,2,#578bdb,9
+gnn,2,#578bdb,33
+graph,2,#578bdb,9
+graph convolutional networks,24,#5957db,1
+graph generation,5,#7fdb57,8
+graph neural network,2,#578bdb,2
+graph neural network (gnn),2,#578bdb,17
+graph relations,2,#578bdb,2
+graph-sage layers,2,#578bdb,3
+graphs,2,#578bdb,33
+graphsage,2,#578bdb,19
+graphsage layers,2,#578bdb,11
+grid-world environment,2,#578bdb,28
+ground truth,2,#578bdb,9
+hbtom,2,#578bdb,14
+hein et al.,2,#578bdb,13
+"hein, a.",20,#57d3db,1
+hellaswag: can a machine really finish your sentence?,25,#db57bb,1
+"hendrycks, d.",22,#6b57db,1
+heuristics,2,#578bdb,2
+hidden dimension 96,2,#578bdb,8
+"hidden dimensions 256, 128 and 256",2,#578bdb,8
+hsiu-yu yang,8,#dbcb57,6
+"huang, l.",26,#5767db,1
+human-machine collaboration,7,#5bdb57,1
+human-robot collaboration,17,#db57cd,1
+humans,7,#5bdb57,1
+improving performance,2,#578bdb,3
+inaccessible goal,2,#578bdb,8
+inaccessible goal task,2,#578bdb,12
+inconsequential barrier,2,#578bdb,12
+inductive representation learning,29,#db9557,1
+infants,7,#5bdb57,4
+"infants expect other agents to have goals, preferences and engage in instrumental actions",2,#578bdb,3
+infants' looking times,2,#578bdb,2
+infants’ responses,2,#578bdb,8
+initial models,2,#578bdb,4
+input,2,#578bdb,4
+instrumental action,2,#578bdb,18
+instrumental action task,2,#578bdb,8
+instrumental action tasks,2,#578bdb,2
+instrumental blocking barrier,5,#7fdb57,10
+intelligent,2,#578bdb,4
+intentional stance,1,#db5785,1
+international conference on machine learning,28,#579ddb,3
+intphys: a framework and benchmark for visual intuitive physics reasoning,27,#7d57db,1
+intuitions about support in 4.5-month-old infants,14,#57db9b,1
+intuitive physics,2,#578bdb,15
+intuitive physics learning in a deep-learning model inspired by developmental psychology,31,#c7db57,1
+intuitive psychology,2,#578bdb,13
+intuitive reasoning network (irene),2,#578bdb,23
+irene,2,#578bdb,129
+irrational agent,2,#578bdb,3
+irrational agents,2,#578bdb,3
+"jiang, m.",32,#57c1db,1
+"jiang, z.",33,#57afdb,1
+"jones, l.",23,#a157db,1
+json file,5,#7fdb57,4
+"kaiser, ł.",34,#6ddb57,1
+knowledge,2,#578bdb,2
+knowledge gained during training,2,#578bdb,3
+l. shi,2,#578bdb,2
+lack of accessible and well-maintained benchmarks,2,#578bdb,7
+learning in graph domains,35,#8f57db,1
+local,2,#578bdb,5
+local directional relations,2,#578bdb,24
+local relations,2,#578bdb,4
+logistic regression classifiers,2,#578bdb,4
+lstm,2,#578bdb,14
+lstm aggregation,2,#578bdb,3
+lstm limitations,2,#578bdb,4
+m,2,#578bdb,9
+m. bortoletto,2,#578bdb,2
+machine common-sense reasoning,7,#5bdb57,2
+machine theory of mind,28,#579ddb,1
+machine theory of mind network,2,#578bdb,4
+manuel mager,8,#dbcb57,6
+mean prediction error,2,#578bdb,9
+message passing,2,#578bdb,12
+meta-learning problem,2,#578bdb,3
+mlp,2,#578bdb,3
+mlp policy,2,#578bdb,25
+model,2,#578bdb,57
+modeling violation-of-expectation,37,#db5761,1
+models,2,#578bdb,7
+models’ ability to predict future actions,2,#578bdb,3
+models’ ability to reason about other agents,2,#578bdb,3
+"most recent model (hein and diepold 2022, vt)",2,#578bdb,4
+"mota, t.",38,#d757db,1
+mse,2,#578bdb,3
+multi-agent,2,#578bdb,13
+multi-agent task,2,#578bdb,9
+m¨uller,8,#dbcb57,5
+natural language processing,30,#c557db,1
+navigation preference,5,#7fdb57,4
+neural model,2,#578bdb,2
+neural network,2,#578bdb,8
+no barrier,2,#578bdb,12
+node embeddings,2,#578bdb,8
+node features,2,#578bdb,10
+nodes,2,#578bdb,4
+"normalised between [-1, 1]",2,#578bdb,9
+"normalised between [0, 1]",2,#578bdb,9
+novel model,2,#578bdb,3
+objects,2,#578bdb,28
+observer,2,#578bdb,3
+observer model,2,#578bdb,6
+obstacles,2,#578bdb,5
+one-hot vectors,2,#578bdb,9
+our model’s expectations,7,#5bdb57,2
+output dimension two,2,#578bdb,8
+p,2,#578bdb,12
+"parmar, n.",39,#d9db57,1
+path control,2,#578bdb,2
+path control and time control sub-tasks,2,#578bdb,2
+performance,2,#578bdb,24
+performance scores,2,#578bdb,2
+piloto et al.,2,#578bdb,11
+piqa,40,#db8357,1
+position,2,#578bdb,29
+prediction error,2,#578bdb,3
+prediction net,2,#578bdb,28
+preference,2,#578bdb,2
+preference task,2,#578bdb,25
+preferences,2,#578bdb,3
+probing physics knowledge using tools from developmental psychology,9,#db5797,1
+rational agents,2,#578bdb,17
+reasoning performance,2,#578bdb,3
+reasoning tasks,2,#578bdb,17
+rectified linear units improve restricted boltzmann machines,28,#579ddb,1
+relational graphs,2,#578bdb,18
+relationships,2,#578bdb,3
+remote,2,#578bdb,6
+remote directional relations,2,#578bdb,10
+remote relations,2,#578bdb,14
+research,2,#578bdb,13
+resulting model,2,#578bdb,4
+results,2,#578bdb,35
+reward hacking,2,#578bdb,2
+riochet et al.,2,#578bdb,11
+rnn,2,#578bdb,3
+robotics,7,#5bdb57,1
+s,2,#578bdb,12
+shape,2,#578bdb,9
+shu et al.,2,#578bdb,11
+simulation,41,#db57a9,1
+single-object multiple-agent,5,#7fdb57,8
+social iqa: commonsense reasoning about social interactions,42,#db5f57,1
+solving the baby intuitions benchmark with a hierarchically bayesian theory of mind,43,#a3db57,1
+spatial relations,2,#578bdb,10
+spatial relationships,2,#578bdb,3
+stack of six layers,2,#578bdb,8
+state and context representations,2,#578bdb,3
+state embedding,2,#578bdb,9
+state encoder,2,#578bdb,48
+state-action pairs,2,#578bdb,5
+states,2,#578bdb,9
+stojni´c et al. (2023),2,#578bdb,2
+sub-tasks,2,#578bdb,20
+t-tests,2,#578bdb,3
+table 2,2,#578bdb,3
+tasks,2,#578bdb,35
+teachers’ extent of the use of particular task types in mathematics,36,#5779db,1
+test frame graph,2,#578bdb,3
+test state,2,#578bdb,2
+test trial,2,#578bdb,5
+test trials,2,#578bdb,15
+the state of the art,2,#578bdb,1
+theory of mind network,2,#578bdb,8
+time control,2,#578bdb,2
+training and evaluation on the baby intuitions benchmark,2,#578bdb,10
+training and evaluation tasks,2,#578bdb,3
+training set,2,#578bdb,2
+training tasks,2,#578bdb,30
+training trials,5,#7fdb57,4
+trajectories,2,#578bdb,8
+transformer,2,#578bdb,44
+transformer context encoder,2,#578bdb,9
+transformer encoder,2,#578bdb,28
+trial representations,2,#578bdb,3
+trials,2,#578bdb,20
+type,2,#578bdb,29
+"type, position, color, shape",2,#578bdb,5
+unexpected trials,2,#578bdb,2
+unseen evaluation tasks,2,#578bdb,3
+"vaswani, a.",44,#91db57,1
+video,2,#578bdb,4
+video frames,2,#578bdb,11
+video transformer,2,#578bdb,17
+video transformer network,28,#579ddb,3
+video-rnn,2,#578bdb,10
+violation of expectation paradigm,2,#578bdb,19
+visual scene understanding,2,#578bdb,3
+voe accuracy scores,2,#578bdb,9
+voe paradigm,2,#578bdb,19
+vt,2,#578bdb,28
+vt model,2,#578bdb,9
+weights,2,#578bdb,9
+weihs et al.,2,#578bdb,8
+winogrande: an adversarial winograd schema challenge at scale,18,#dba757,1
+worse scores,2,#578bdb,4
+learning representations,3,#57dbad,1
+core psychological reasoning,2,#578bdb,1
+"advances in neural information processing systems, 30",4,#dbb957,1
+"discerning the goals, preferences, and actions of others",2,#578bdb,1
+mindblindness,10,#57db89,1
+transactions on machine learning research,11,#b357db,1
+"choi, y.",12,#db7157,1
+international conference on learning representations,13,#57dbd1,1
+self-organizing multi-layered neural network,15,#57db65,1
+human infants and machines,16,#b5db57,1
+"agents’ goals, preferences and actions in human infants",6,#57dbbf,1
+exponential linear units (elus),19,#db5773,1
+exponential linear units,21,#57db77,1
+relational data,24,#5957db,1
+"diepold, k.",20,#57d3db,1
+proceedings of the 57th annual meeting of the association for computational linguistics,25,#db57bb,1
+"gimpel, k.",22,#6b57db,1
+"le bras, r.",26,#5767db,1
+commonsense reasoning,17,#db57cd,1
+large graphs,29,#db9557,1
+12 months of age,1,#db5785,1
+ieee transactions on pattern analysis and machine intelligence,27,#7d57db,1
+"cognition, 47(2): 121–148",14,#57db9b,1
+coarse probabilistic object representations,2,#578bdb,1
+nature human behaviour,31,#c7db57,1
+"rockt¨aschel, t.",32,#57c1db,1
+"minervini, p.",33,#57afdb,1
+"gomez, a. n.",23,#a157db,1
+"polosukhin, i.",34,#6ddb57,1
+model for learning,35,#8f57db,1
+physical reasoning,37,#db5761,1
+"sridharan, m.",38,#d757db,1
+international joint conference on natural language processing,30,#c557db,1
+"uszkoreit, j.",39,#d9db57,1
+physical commonsense in natural language,40,#db8357,1
+arxiv preprint arxiv:1804.01128,9,#db5797,1
+physical scene understanding,41,#db57a9,1
+proceedings of the 2019 conference on empirical methods in natural language processing and the 9th international joint conference on natural language pro,42,#db5f57,1
+robotics: science and systems workshop on social intelligence in humans and robots,43,#a3db57,1
+mathematics education research group of australasia,36,#5779db,1
+"shazeer, n.",44,#91db57,1
+ieee/cvf international conference on computer vision,28,#579ddb,1
+proceedings of the,28,#579ddb,1
+communications of the acm,18,#dba757,1
